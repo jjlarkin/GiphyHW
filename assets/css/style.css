@@ -1,0 +1,32 @@
+#display1 {
+    font-family: monospace;
+    font-size: 70px;
+    color: Orange;
+
+    /* Typography */
+    text-align: center;
+
+    /* Visual */
+
+}
+#display{
+    font-family: monospace;
+    font-size: 70px;
+    color: Orange;
+
+    /* Typography */
+    text-align: center;
+
+    /* Visual */
+    background: black;
+}
+.jumbotron{
+    text-align: center;
+    color: lime;
+    background-color: rgba(37,37,37,0.87)   ;
+}
+body{
+    background-color: lightgrey;
+
+
+}
