@@ -77,7 +77,7 @@ $("#add-animal").on("click", function(event) {
     renderButtons();
 });
 
-$(".gif").on("click", function() {
+$(document).on("click",".gif", function() {
 
     var state = $(this).attr("data-state");
 
